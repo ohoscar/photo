@@ -55,8 +55,8 @@ You can throw in some horizontal rules too:
 Here's a really neat custom feature we added – galleries:
 
 <div class="gallery" data-columns="3">
-	<img src="/images/demo/square-01.jpg">
-	<img src="/images/demo/portrait-02.jpg">
+	<img src="{{site.baseurl}}/images/demo/square-01.jpg">
+	<img src="{{site.baseurl}}/images/demo/portrait-02.jpg">
 	<img src="/images/demo/square-02.jpg">
 	<img src="/images/demo/square-03.jpg">
 	<img src="/images/demo/square-04.jpg">
