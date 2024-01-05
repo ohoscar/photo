@@ -1,6 +1,6 @@
 site: Board Jekyll Theme
 
-url: 
+url: /photo/
 baseurl: /photo/
 
 collections:
